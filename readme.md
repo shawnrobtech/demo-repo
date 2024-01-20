@@ -1,3 +1,3 @@
 #Demo
 
-This is a placeholder learninf gtom Free Code Camp Git Tutorial.
+This is a placeholder learning from Free Code Camp Git Tutorial.
